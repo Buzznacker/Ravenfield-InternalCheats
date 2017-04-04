@@ -1,0 +1,16 @@
+D:\Projects\UnityInjector\GameHack\bin\Release\GameHack.dll
+D:\Projects\UnityInjector\GameHack\bin\Release\GameHack.pdb
+D:\Projects\UnityInjector\GameHack\obj\Release\GameHack.dll
+D:\Projects\UnityInjector\GameHack\obj\Release\GameHack.pdb
+D:\Projects\UnityInjector\GameHack\bin\Release\UnityEngine.dll
+D:\Projects\UnityInjector\GameHack\bin\Release\UnityEngine.xml
+D:\Projects\UnityInjector\GameHack\bin\Release\Assembly-CSharp.dll
+D:\Projects\UnityInjector\GameHack\bin\Release\UnityEngine.UI.dll
+D:\Projects\UnityInjector\GameHack\bin\Release\Pathfinding.JsonFx.dll
+D:\Projects\UnityInjector\GameHack\bin\Release\Pathfinding.Ionic.Zip.Reduced.dll
+D:\Projects\UnityInjector\GameHack\bin\Release\Pathfinding.ClipperLib.dll
+D:\Projects\UnityInjector\GameHack\bin\Release\Pathfinding.Poly2Tri.dll
+D:\Projects\UnityInjector\GameHack\bin\Release\EasyRoads3D.dll
+D:\Projects\UnityInjector\GameHack\bin\Release\Assembly-CSharp-firstpass.dll
+D:\Projects\UnityInjector\GameHack\bin\Release\Mono.Security.dll
+D:\Projects\UnityInjector\GameHack\obj\Release\GameHack.csprojResolveAssemblyReference.cache

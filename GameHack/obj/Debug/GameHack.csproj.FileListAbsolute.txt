@@ -1,0 +1,7 @@
+D:\Projects\UnityInjector\GameHack\bin\Debug\GameHack.dll
+D:\Projects\UnityInjector\GameHack\bin\Debug\GameHack.pdb
+D:\Projects\UnityInjector\GameHack\bin\Debug\UnityEngine.dll
+D:\Projects\UnityInjector\GameHack\bin\Debug\UnityEngine.xml
+D:\Projects\UnityInjector\GameHack\obj\Debug\GameHack.csprojResolveAssemblyReference.cache
+D:\Projects\UnityInjector\GameHack\obj\Debug\GameHack.dll
+D:\Projects\UnityInjector\GameHack\obj\Debug\GameHack.pdb

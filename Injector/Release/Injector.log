@@ -1,0 +1,14 @@
+﻿  main.c
+main.c(329): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+main.c(329): warning C4024: 'CreateToolhelp32Snapshot': different types for formal and actual parameter 2
+main.c(334): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+main.c(342): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+main.c(452): warning C4047: '==': 'void *' differs in levels of indirection from 'DWORD'
+main.c(469): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 17 functions ( 5.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Injector.vcxproj -> D:\Projects\UnityInjector\Release\Injector.exe
+  Injector.vcxproj -> D:\Projects\UnityInjector\Release\Injector.pdb (Full PDB)

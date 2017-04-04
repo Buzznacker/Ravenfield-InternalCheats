@@ -1,0 +1,20 @@
+﻿  dllmain.c
+dllmain.c(7): warning C4133: 'function': incompatible types - from 'wchar_t *' to 'LPCSTR'
+dllmain.c(12): warning C4133: 'function': incompatible types - from 'char [1]' to 'LPCWSTR'
+dllmain.c(12): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+dllmain.c(12): warning C4024: 'MessageBoxW': different types for formal and actual parameter 4
+dllmain.c(58): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+dllmain.c(58): warning C4024: 'MessageBoxW': different types for formal and actual parameter 4
+dllmain.c(71): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+dllmain.c(71): warning C4024: 'MessageBoxW': different types for formal and actual parameter 4
+dllmain.c(72): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+dllmain.c(72): warning C4024: 'CreateThread': different types for formal and actual parameter 2
+dllmain.c(72): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+dllmain.c(72): warning C4024: 'CreateThread': different types for formal and actual parameter 5
+  Generating code
+  2 of 5 functions (40.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  UnityInjector.vcxproj -> D:\Projects\UnityInjector\x64\Release\UnityInjector.dll
+  UnityInjector.vcxproj -> D:\Projects\UnityInjector\x64\Release\UnityInjector.pdb (Full PDB)
